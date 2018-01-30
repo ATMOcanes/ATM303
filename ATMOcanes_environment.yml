@@ -1,0 +1,24 @@
+ name: ATMOcanes
+ channels:
+   - conda-forge
+ dependencies:
+   - python=3
+   - numpy
+   - matplotlib
+   - cartopy
+   - jupyter
+   - netcdf4
+   - owslib
+   - metpy
+   - pint
+   - shapely<=1.5.17
+   - siphon
+   - xarray
+   - pip
+   - ffmpeg
+   - pytest
+   - labjackpython-5-26==2015
+   - pip:
+     - python-awips
+     - mpldatacursor
+
