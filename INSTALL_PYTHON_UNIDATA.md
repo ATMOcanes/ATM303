@@ -32,4 +32,4 @@
       
 ---------------------
 If you did it all right, a browser window should now pop up! 
-You are ready for class. 
+You are ready to plot a sounding for class. 
