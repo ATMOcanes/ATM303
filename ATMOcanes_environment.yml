@@ -21,4 +21,4 @@
    - pip:
      - python-awips
      - mpldatacursor
-
+     - git+https://github.com/labjack/LabJackPython.git
