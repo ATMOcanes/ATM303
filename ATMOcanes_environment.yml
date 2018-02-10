@@ -17,7 +17,6 @@
    - pip
    - ffmpeg
    - pytest
-   - labjackpython-5-26==2015
    - pip:
      - python-awips
      - mpldatacursor
